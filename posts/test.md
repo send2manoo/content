@@ -8,3 +8,7 @@ draft: false
 
 
 *In a nutshell, a repository is where your project will live. It’s where you’ll organize your project. You’ll keep folders, files, images, videos, spreadsheets, Jupyter notebooks, data sets, and anything else your project needs in your repository.*
+
+{{< notice warning >}}
+This is a warning notice. Be warned!
+{{< /notice >}}

@@ -12,3 +12,7 @@ draft: false
 ***A website is a way to connect with the world and it’s a powerful tool for communication. It’s a way to share your work, your interests, and your passions. It’s how you can create, build, and control your online image. Plus, the sooner you build your site, the more time you’ll have to build your online presence and reach the people that you want to reach. It can help you stand out in a sea of competitors.
 It’s also not the easiest thing to create if you don’t know what you’re doing!
 There are a few ways that a beginner can create a simple and completely free website. The main ones are GitHub and Wordpress hello.***
+
+{{< notice tip >}}
+This is a very good tip.
+{{< /notice >}}
